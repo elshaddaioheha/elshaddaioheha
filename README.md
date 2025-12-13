@@ -41,7 +41,7 @@ I'm a Full-Stack Developer and **Hedera Hashgraph Enthusiast** based in Nigeria.
 
 ### 🐍 My Contributions
 <div align="center">
-  <img src="https://github.com/elshaddaioheha/elshaddaioheha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/elshaddaioheha/elshaddaioheha/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ---
