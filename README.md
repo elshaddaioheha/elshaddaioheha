@@ -1,4 +1,4 @@
-# Oheha El-Shaddai
+# Oheha Ebibi
 
 Backend engineer and Web3 developer. I build APIs, smart-contract systems, and full-stack applications for founders and small teams.
 
