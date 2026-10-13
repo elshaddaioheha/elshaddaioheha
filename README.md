@@ -2,7 +2,7 @@
 
 Backend engineer and Web3 developer. I build APIs, smart-contract systems, and full-stack applications for founders and small teams.
 
-**Available for freelance work** · [oheha.vercel.app](https://oheha.vercel.app) · [elshaddaioheha@gmail.com](mailto:elshaddaioheha@gmail.com) · [@0hehaebib1](https://x.com/0hehaebib1)
+**Available for freelance work** · [ohehaebibi.dev](https://ohehaebibi.dev) · [elshaddaioheha@gmail.com](mailto:elshaddaioheha@gmail.com) · [@0hehaebib1](https://x.com/0hehaebib1)
 
 ---
 
